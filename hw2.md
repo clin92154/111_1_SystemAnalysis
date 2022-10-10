@@ -23,11 +23,12 @@
 | 11   | 使用者測試   | 25       | 9,10     |
 
 ---
-
-![來源](https://hackmd.io/q3czTJ8kSsCvEGPv9rglPA?view)
+![來源]([https://hackmd.io/q3czTJ8kSsCvEGPv9rglPA?view](https://hackmd.io/@cjqBX7RDSMSJUP0adJLUmw/SJOZqTZmo
+))
 
 **(1) PERT/CPM 圖**
-![![來源](https://hackmd.io/q3czTJ8kSsCvEGPv9rglPA?view)](https://user-images.githubusercontent.com/57654809/194916993-e9219ac7-4705-4490-8b70-3ce9c6b7b578.png)
+![![來源]([https://hackmd.io/q3czTJ8kSsCvEGPv9rglPA?view](https://hackmd.io/@cjqBX7RDSMSJUP0adJLUmw/SJOZqTZmo
+))](https://user-images.githubusercontent.com/57654809/194916993-e9219ac7-4705-4490-8b70-3ce9c6b7b578.png)
 
 **(2) 甘特圖**
 
@@ -51,7 +52,8 @@ gantt
 **(3)關鍵路徑**
 
 最長路徑為:
-![![來源](https://hackmd.io/q3czTJ8kSsCvEGPv9rglPA?view)](https://user-images.githubusercontent.com/57654809/194918119-5318264c-3018-4177-b51d-17f25ba891d1.png)
+![![來源]([https://hackmd.io/q3czTJ8kSsCvEGPv9rglPA?view](https://hackmd.io/@cjqBX7RDSMSJUP0adJLUmw/SJOZqTZmo
+))](https://user-images.githubusercontent.com/57654809/194918119-5318264c-3018-4177-b51d-17f25ba891d1.png)
 需耗費155天。
 
 
