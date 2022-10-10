@@ -23,8 +23,7 @@
 | 11   | 使用者測試   | 25       | 9,10     |
 
 ---
-![來源]([https://hackmd.io/q3czTJ8kSsCvEGPv9rglPA?view](https://hackmd.io/@cjqBX7RDSMSJUP0adJLUmw/SJOZqTZmo
-))
+[PERT圖/關鍵路徑繪製連結](https://hackmd.io/@cjqBX7RDSMSJUP0adJLUmw/SJOZqTZmo)
 
 **(1) PERT/CPM 圖**
 ![![來源]([https://hackmd.io/q3czTJ8kSsCvEGPv9rglPA?view](https://hackmd.io/@cjqBX7RDSMSJUP0adJLUmw/SJOZqTZmo
